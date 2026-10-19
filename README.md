@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <gucakmak>.*
+*This project has been created as part of the 42 curriculum by *<gucakmak>*.
 
 # ft_printf
 
